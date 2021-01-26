@@ -12,3 +12,27 @@
 
     background-color: darkgreen;
 }
+
+
+.text-align{
+
+    text-align: center;
+}
+
+
+.bg-secondary-3{
+
+    background-color:orange
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+
+   color: #fff !important;
+}
+
+
+.btn-primary{
+    background-color: darkgreen !important;
+    border-color: darkgreen !important;
+}
