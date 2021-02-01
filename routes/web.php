@@ -20,5 +20,17 @@ Route::get('/', function () {
 
 Route::get('/projet',function(){
 
-    return view('projet');
+    return view('liste-projet');
+});
+
+
+Route::get('/projet-categorie/{id}',function(){
+
+    return view('categorie-projet');
+});
+
+
+Route::get('/projet-detail/{id}',function(){
+
+    return view('single-projet');
 });

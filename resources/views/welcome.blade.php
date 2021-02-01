@@ -22,14 +22,14 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg bg-secondary-1 text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">WIKI-LIC</a>
+                <a class="navbar-brand js-scroll-trigger" href="/">WIKI-LIC</a>
                 <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Projets</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/projet">Projets</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">A Propos</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
@@ -60,58 +60,75 @@
                 <div class="row justify-content-center">
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                        <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Agriculture</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" />
-                        </div>
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white">Agriculture</div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white">Agriculture</div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" />
+                        </a>
                     </div>
                     <!-- Portfolio Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Energie</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="" />
-                        </div>
+                        </a>
                     </div>
                     <!-- Portfolio Item 3-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Environement</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
-                        </div>
+                        </a>
                     </div>
                     <!-- Portfolio Item 4-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Sante</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/game.png" alt="" />
-                        </div>
+                        </a>
                     </div>
                     <!-- Portfolio Item 5-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Education</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="" />
-                        </div>
+                        </a>
                     </div>
                     <!-- Portfolio Item 6-->
                     <div class="col-md-6 col-lg-4">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
+                    <a class="portfolio-item mx-auto" href="/projet-categorie/1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">Transport</div>
                             </div>
                             <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="" />
-                        </div>
+                        </a>
                     </div>
+                    
                 </div>
             </div>
         </section>
