@@ -103,7 +103,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+          <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>
@@ -115,7 +115,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+          <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+          <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>

@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Business Frontpage - Start Bootstrap Template</title>
+  <title>Lambayeinnovationchallenge</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +52,7 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">   
-          <h1 class="display-4 text-white text-align mt-5 mb-2" >Domaine</h1>
+          <h1 class="display-4 text-white text-align mt-5 mb-2" >Nos Projets</h1>
         </div>
       </div>
     </div>
@@ -94,7 +94,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+          <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>
@@ -106,7 +106,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+          <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>
@@ -118,7 +118,7 @@
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+            <a href="/single-projet/1" class="btn btn-primary">Voire</a>
           </div>
         </div>
       </div>

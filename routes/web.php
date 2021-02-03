@@ -30,7 +30,14 @@ Route::get('/projet-categorie/{id}',function(){
 });
 
 
-Route::get('/projet-detail/{id}',function(){
+Route::get('/single-projet/{id}',function(){
 
     return view('single-projet');
+});
+
+
+
+Route::get('cree-projet',function(){
+
+    return view('cree-projet');
 });
